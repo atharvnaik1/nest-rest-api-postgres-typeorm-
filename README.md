@@ -30,34 +30,16 @@
 # Create a new NestJS project
 nest new nest-postgres-api
 
+
 # Change into the project directory
 cd nest-postgres-api
+
+
+
 Step 2: Install Dependencies
+
+
 Install the required dependencies for PostgreSQL and TypeORM:
 
 
 npm install @nestjs/typeorm typeorm pg
-```
-
-## Support
-
-Nest is an MIT-licensed op# Create a new NestJS project
-nest new nest-postgres-api
-
-# Change into the project directory
-cd nest-postgres-api
-Step 2: Install Dependencies
-Install the required dependencies for PostgreSQL and TypeORM:
-
-
-npm install @nestjs/typeorm typeorm pgen source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
