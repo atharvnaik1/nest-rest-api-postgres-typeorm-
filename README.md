@@ -27,40 +27,30 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
+# Create a new NestJS project
+nest new nest-postgres-api
 
-```bash
-$ npm install
-```
+# Change into the project directory
+cd nest-postgres-api
+Step 2: Install Dependencies
+Install the required dependencies for PostgreSQL and TypeORM:
 
-## Running the app
 
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
+npm install @nestjs/typeorm typeorm pg
 ```
 
 ## Support
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+Nest is an MIT-licensed op# Create a new NestJS project
+nest new nest-postgres-api
+
+# Change into the project directory
+cd nest-postgres-api
+Step 2: Install Dependencies
+Install the required dependencies for PostgreSQL and TypeORM:
+
+
+npm install @nestjs/typeorm typeorm pgen source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
 ## Stay in touch
 
